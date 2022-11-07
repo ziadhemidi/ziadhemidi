@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2087A2&center=true&multiline=true&width=500&height=200&lines=Hey+there!+%F0%9F%91%8B%F0%9F%8F%BC+;This+is+my+GitHub+repository;+where+I+share+and+publish+my+code+that+;was+developed+and+implemented+throughout;my+research)](https://git.io/typing-svg)
