@@ -5,7 +5,7 @@
 **I am a PhD student and research assistant at the University of Lübeck, Germany**
 ![](./images/Logo_Inst_MedInformatik_En_P309.png)
 
-Skills: **Python / PyTorch / Matlab / Latex** / Medical Deep Learning / Machine Learning
+Skills: **Python / PyTorch / C++ / Matlab / Latex** / Medical Deep Learning / Machine Learning
 
 - 📫 How to reach me: z.alhajhemidi@uni-luebeck.de
 
