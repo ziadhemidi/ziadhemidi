@@ -6,6 +6,7 @@
 ![](./images/Logo_Inst_MedInformatik_En_P309.png)
 
 Areas of Intereset: **MRI Reconstruction / MRI Acceleration / Motion Compensation/Correction / Image Registration**
+
 Skills: **Python / PyTorch / C++ / Matlab / Latex** / Medical Deep Learning / Machine Learning
 
 - 📫 How to reach me: z.alhajhemidi@uni-luebeck.de
