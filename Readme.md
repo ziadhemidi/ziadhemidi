@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/ziadhemidi" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="25">
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" target="_blank">
+  <a href="https://scholar.google.com/citations?user=e6_XAW0AAAAJ&hl=en" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="25">
   </a>
 </p>
