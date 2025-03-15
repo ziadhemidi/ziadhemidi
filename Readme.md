@@ -1,18 +1,38 @@
-### Hi there 👋, my name is **Ziad**
+# 👋 Hi there, I’m **Ziad**  
 
-![](./images/animation_500_ld77d3pj.gif)
+<div align="center">
+  <img src="./images/animation_500_ld77d3pj.gif" width="300px">
+</div>
 
-**I am a PhD student and research assistant at the University of Lübeck, Germany**
-![](./images/Logo_Inst_MedInformatik_En_P309.png)
+### 🧑‍🔬 **PhD Student | Research Assistant**  
+📍 University of Lübeck, Germany  
+🔬 Specializing in **Medical Deep Learning for MRI Reconstruction & Motion Correction**  
 
-Areas of Intereset: **MRI Reconstruction / MRI Acceleration / Motion Compensation/Correction / Image Registration**
+<div align="center">
+  <img src="./images/Logo_Inst_MedInformatik_En_P309.png" width="300px">
+</div>
 
-Skills: **Python / PyTorch / C++ / Matlab / Latex** / Medical Deep Learning / Machine Learning
+## 🚀 **Research Interests**  
+- 🧠 **MRI Reconstruction & Acceleration**  
+- 📡 **Motion Compensation & Correction**  
+- 🔄 **Image Registration**  
 
-- 📫 How to reach me: z.alhajhemidi@uni-luebeck.de
+## 🛠 **Tech Stack & Skills**  
+🔹 **Languages:** Python, C++, Matlab, LaTeX  
+🔹 **Deep Learning Frameworks:** PyTorch  
+🔹 **Specialties:** Medical Deep Learning, Machine Learning  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ziadhemidi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ziadalhemidi)  
+## 📬 **Get in Touch**  
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/ziadhemidi)  
+[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/ziadalhemidi)  
+📧 **Email:** [z.alhajhemidi@uni-luebeck.de](mailto:z.alhajhemidi@uni-luebeck.de)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhemidi)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 **GitHub Stats**  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhemidi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
+<div align="center">
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  
+  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+</div>
